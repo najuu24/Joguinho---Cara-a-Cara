@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cara a Cara - VS IA</title>
+
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+  <body onload="carregarPersonagens()">
+    <h1>🎭 Cara a Cara - Contra a IA</h1>
+
+    <section id="painel-perguntas">
+      <h2>Escolha uma pergunta:</h2>
+      <div id="container-perguntas"></div>
+    </section>
+
+    <div id="resposta"></div>
+
+    <section id="painel-chute">
+      <h2>Quem é o personagem da IA?</h2>
+      <input type="text" id="campo-chute" placeholder="Digite o nome" />
+      <button onclick="verificarChute()">Chutar</button>
+    </section>
+    <script src="../js/script.js" defer></script>
+  </body>
+</html>

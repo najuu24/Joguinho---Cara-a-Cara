@@ -1,0 +1,181 @@
+[
+  {
+  "nome": "Ana",
+  "tomPele": "claro",
+  "usaOculos": true,
+  "temChapeu": false,
+  "cabeloComprido": true,
+  "corCabelo": "colorido",
+  "tipoCabelo": "ondulado",
+  "barba": false,
+  "bigode": false,
+  "mulher": true,
+  "roupaColorida": true,
+  "imagem": "../img/ana.png"
+  },
+
+  {
+  "nome": "Lúcia",
+  "tomPele": "claro",
+  "usaOculos": false,
+  "temChapeu": true,
+  "cabeloComprido": false,
+  "corCabelo": "preto",
+  "tipoCabelo": "careca",
+  "barba": false,
+  "bigode": false,
+  "mulher": true,
+  "roupaColorida": true,
+  "imagem": "../img/lucia.png"
+  },
+
+   {
+  "nome": "Maria",
+  "tomPele": "claro",
+  "usaOculos": true,
+  "temChapeu": false,
+  "cabeloComprido": false,
+  "corCabelo": "preto",
+  "tipoCabelo": "cacheado",
+  "barba": false,
+  "bigode": false,
+  "mulher": true,
+  "roupaColorida": true,
+  "imagem": "../img/maria.png"
+  },
+
+   {
+  "nome": "Sara",
+  "tomPele": "escuro",
+  "usaOculos": false,
+  "temChapeu": false,
+  "cabeloComprido": true,
+  "corCabelo": "colorido",
+  "tipoCabelo": "liso",
+  "barba": false,
+  "bigode": false,
+  "mulher": true,
+  "roupaColorida": true,
+  "imagem": "../img/sara.png"
+  },
+
+   {
+  "nome": "Joana",
+  "tomPele": "escuro",
+  "usaOculos": false,
+  "temChapeu": true,
+  "cabeloComprido": false,
+  "corCabelo": "preto",
+  "tipoCabelo": "careca",
+  "barba": false,
+  "bigode": false,
+  "mulher": true,
+  "roupaColorida": true,
+  "imagem": "../img/joana.png"
+  },
+
+   {
+  "nome": "Flávia",
+  "tomPele": "escuro",
+  "usaOculos": false,
+  "temChapeu": false,
+  "cabeloComprido": false,
+  "corCabelo": "colorido",
+  "tipoCabelo": "liso",
+  "barba": false,
+  "bigode": false,
+  "mulher": true,
+  "roupaColorida": true,
+  "imagem": "../img/flavia.png"
+  },
+
+  {
+  "nome": "Marcelo",
+  "tomPele": "escuro",
+  "usaOculos": true,
+  "temChapeu": true,
+  "cabeloComprido": false,
+  "corCabelo": "preto",
+  "tipoCabelo": "cacheado",
+  "barba": true,
+  "bigode": true,
+  "mulher": false,
+  "roupaColorida": false,
+  "imagem": "../img/marcelo.png"
+  },
+  
+  {
+  "nome": "João",
+  "tomPele": "claro",
+  "usaOculos": true,
+  "temChapeu": true,
+  "cabeloComprido": false,
+  "corCabelo": "preto",
+  "tipoCabelo": "cacheado",
+  "barba": false,
+  "bigode": true,
+  "mulher": false,
+  "roupaColorida": false,
+  "imagem": "../img/joao.png"
+  },
+
+  {
+  "nome": "Fábio",
+  "tomPele": "escuro",
+  "usaOculos": true,
+  "temChapeu": false,
+  "cabeloComprido": false,
+  "corCabelo": "preto",
+  "tipoCabelo": "cacheado",
+  "barba": false,
+  "bigode": false,
+  "mulher": false,
+  "roupaColorida": true,
+  "imagem": "../img/fabio.png"
+  },
+
+  {
+  "nome": "Neto",
+  "tomPele": "claro",
+  "usaOculos": true,
+  "temChapeu": true,
+  "cabeloComprido": false,
+  "corCabelo": "claro",
+  "tipoCabelo": "liso",
+  "barba": true,
+  "bigode": true,
+  "mulher": false,
+  "roupaColorida": false,
+  "imagem": "../img/neto.png"
+  },
+
+  {
+  "nome": "Gabriel",
+  "tomPele": "claro",
+  "usaOculos": true,
+  "temChapeu": false,
+  "cabeloComprido": false,
+  "corCabelo": "preto",
+  "tipoCabelo": "liso",
+  "barba": false,
+  "bigode": true,
+  "mulher": false,
+  "roupaColorida": false,
+  "imagem": "../img/gabriel.png"
+  },
+  
+  {
+  "nome": "Pedro",
+  "tomPele": "escuro",
+  "usaOculos": true,
+  "temChapeu": false,
+  "cabeloComprido": true,
+  "corCabelo": "claro",
+  "tipoCabelo": "liso",
+  "barba": false,
+  "bigode": true,
+  "mulher": false,
+  "roupaColorida": true,
+  "imagem": "../img/pedro.png"
+  }
+]
