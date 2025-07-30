@@ -12,9 +12,7 @@ No arquivo index.html, adicione dentro do <body>:
 *html
 <div id="tabuleiro-personagens"></div>
 🎨 3. No style.css, adicione estilos para o tabuleiro
-css
-Copiar
-Editar
+*css
 #tabuleiro-personagens {
   display: flex;
   flex-wrap: wrap;
@@ -41,9 +39,7 @@ Editar
 🧠 4. No script.js, crie uma função para mostrar os personagens
 Depois de carregar os dados do JSON, chame isso:
 
-js
-Copiar
-Editar
+*js
 function exibirTabuleiro(personagens) {
   const tabuleiro = document.getElementById("tabuleiro-personagens");
   tabuleiro.innerHTML = ""; // limpa antes de preencher
@@ -60,9 +56,7 @@ function exibirTabuleiro(personagens) {
 }
 E chame essa função logo depois que os personagens forem carregados:
 
-js
-Copiar
-Editar
+*js
 fetch("../dados/personagens.json")
   .then(response => response.json())
   .then(data => {
